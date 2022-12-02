@@ -1,0 +1,54 @@
+2-. git init
+
+3-. git add .
+    git commit -m "primer commit"
+
+4-. git add .
+    git commit -m "segundo commit"
+
+5-. git add . 
+    git commit -m "tercer commit"
+
+6-. git add erick_siqueiros.21550138
+    git commit -m "Cuarto commit"
+    git add brandon_leyva.20550436
+    git commit -m "Quinto commit"
+
+7-. git add .
+    git commit -m "sexto commit"
+
+8-. git add .
+    git commit -m "septimo commit"
+
+9-. git branch reprobados 
+
+10-. git checkout reprobados 
+     git add .
+     git commit -m "CR7"
+
+11-. git log
+     git reset --soft (+hash(tercer commit))
+
+12-. git add .
+     git commit -m "NUEVOS CAMBIOS"
+
+13-. git checkout master 
+     git add .
+     git commit -m "power point"
+
+14-. git add . 
+git commit -m "paso 14"
+
+15-. git log 
+     git reset --soft (+hash(sexto commit))
+     
+
+16-. git commit -m "VIERNESITO"
+
+17-. git merge reprobados 
+
+18-. git add .
+     git commit -m "paso 18"
+     
+     
+
